@@ -18,13 +18,13 @@
 * Linux
 
 # Requirements
-in bash
+in bash:
 [✓] php
 [✓] curl
 [✓] unzip
 [✓] wget
 
-in python
+in python:
 [✓] tkinter
 [✓] os
 [✓] subprocess
